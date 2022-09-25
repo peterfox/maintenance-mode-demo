@@ -1,6 +1,6 @@
 # Laravel Custom Maintenance Mode
 
-You can read the article for this on [medium](https://medium.com/@SlyFireFox/laravel-customising-maintenance-mode-7e04cb3635069).
+You can read the article for this on [medium](https://medium.com/@SlyFireFox/laravel-customising-maintenance-mode-7e04cb363506).
 
 ## Sponsors
 
