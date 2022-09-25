@@ -139,8 +139,9 @@ return [
     */
 
     'maintenance' => [
-        'driver' => 'file',
+        'driver' => 'custom',
         // 'store'  => 'redis',
+        'disk' => 's3'
     ],
 
     /*
